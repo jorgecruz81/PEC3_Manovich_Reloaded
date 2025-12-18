@@ -107,3 +107,5 @@ https://en.wikipedia.org/wiki/Kinect
 https://pages.cs.wisc.edu/~ahmad/kinect.pdf
 
 https://en.wikipedia.org/wiki/Kinect_Adventures!
+
+Conversor de Word a Markdown: https://www.word2md.net/es
