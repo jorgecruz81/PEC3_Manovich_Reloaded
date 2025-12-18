@@ -35,6 +35,7 @@ _—Lev Manovich, “El software toma el mando”_
 ### Mis casos de hibridación
 
 #### The Matrix (la película 1999)
+![Texto alternativo](bullet_time.webp "Neo en la escena Bullet time")
 
 La película **The Matrix (1999)** no es solo un hito en la ciencia ficción por la historia distópica e incómoda que cuenta, sino que representa según Manovich, un **caso paradigmático de la hibridación de medios**.
 
@@ -65,6 +66,7 @@ _—Lev Manovich, “El software toma el mando”_
 Por todas estas innovaciones en el cine generadas por la hibridación, se puede considerar que The Matrix cristaliza literalmente la teoría de Manovich: el mundo que vemos en la peli es una simulación construida por código, donde las leyes de la física son variables de software que pueden ser manipuladas por aquellos (como Neo) que dominan el sistema.
 
 #### Kinect como metamedio y Kinect Adventures como caso de hibridacion
+![Texto alternativo](kinect.jfif "Kinect Adventures")
 
 **El sensor Kinect** lanzado originalmente para la consola Xbox360 en 2010, cumple esta función al redefinir el interfaz de la consola (el mando), y convertir el cuerpo físico y el espacio de la habitación donde estés, en datos interpretables por la Xbox, **llevando las funcionalidades y capacidades de juego de la consola, al mundo físico**, al mundo real.
 
