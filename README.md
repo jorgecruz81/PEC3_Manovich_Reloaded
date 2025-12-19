@@ -14,7 +14,7 @@ Contenido
 
 [Bibliografia 4](#_Toc216948288)
 
-### ¿Que es la hibridación de medios según Manovich?
+### ¿Qué es la hibridación de medios según Manovich?
 
 Antes de empezar con la exposición sobre la hibridación en nuestros casos elegidos, vamos a comentar lo que Manovich definió como hibridación de medios.
 
@@ -27,6 +27,7 @@ A diferencia de una suma de partes, la hibridación crea una nueva "especie", qu
 - **En multimedia** no podemos hablar de hibridación, ya que con ésta sí que se podría observar que se trata de una simple adición de características y/o funcionalidades en otro medio; una página HTML puede contener texto, video e imágenes incrustadas, pero puedes reproducir el contenido de cada uno de los medios por separado, cada uno con su forma de reproducción nativa (como antes de integrarse en el contenido multimedia). Además su **estructura de datos no cambia**; el video sigue siendo una consecución de fotogramas reproducidos en un orden determinado, el artículo sobre el que trata la página, una consecución de caracteres, etc.
 
 - **En la hibridación**, la integración es más profunda, pudiendo juntarse características de dos o más medios en otro, que tendrá **apariencia, características y comportamiento diferente** a cualquier de sus medios originales, , de tal manera que el usuario no podría percibir cada componente por serparado, si no como como una única “Gestalt” de medios; por ejemplo una página web en la que las noticias se hibridan con infografías, videos, artículos periodísticos narrados por voz (como por ejemplo el archivo histórico de RTVE).
+  
 _‘Por contra, en los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno.’_
 
 _—Lev Manovich, “El software toma el mando”_
@@ -64,15 +65,15 @@ _—Lev Manovich, “El software toma el mando”_
 
 Por todas estas innovaciones en el cine generadas por la hibridación, se puede considerar que The Matrix cristaliza literalmente la teoría de Manovich: el mundo que vemos en la peli es una simulación construida por código, donde las leyes de la física son variables de software que pueden ser manipuladas por aquellos (como Neo) que dominan el sistema.
 
-#### Kinect como metamedio y Kinect Adventures como caso de hibridacion
+#### Kinect como metamedio y Kinect Adventures como caso de hibridación
 ![Texto alternativo](kinect.jfif "Kinect Adventures")
 
 **El sensor Kinect** lanzado originalmente para la consola Xbox360 en 2010, cumple esta función al redefinir el interfaz de la consola (el mando), y convertir el cuerpo físico y el espacio de la habitación donde estés, en datos interpretables por la Xbox, **llevando las funcionalidades y capacidades de juego de la consola, al mundo físico**, al mundo real.
 
-El Kinect utiliza una camara RGB, unos sensores de rayos infrarrojos y micrófonos, para escanear la habitación, el cuerpo y los movimientos de las personas que estén ahi, y asi crear un mapa 3D de todo, convirtiendo la realidad física de tu salón en datos cuantificables y usables por la consola (puntos y coordenadas espaciales para usar e interpertar). Esto permitiría que el propio cuerpo humano actuara como un controlador para la consola, eliminando la necesidad de otros interfaces más tradicionales (mando, quizá teclado, cascos, etc.)
+El Kinect utiliza una cámara RGB, unos sensores de rayos infrarrojos y micrófonos, para escanear la habitación, el cuerpo y los movimientos de las personas que estén ahi, y así crear un mapa 3D de todo, convirtiendo la realidad física de tu salón en datos cuantificables y usables por la consola (puntos y coordenadas espaciales para usar e interpertar). Esto permitiría que el propio cuerpo humano actuara como un controlador para la consola, eliminando la necesidad de otros interfaces más tradicionales (mando, quizá teclado, cascos, etc.)
 
 **Este flujos de datos diferentes fuentes** (imagen, captura de movimientos, coordenadas 3D y sonido) **se fusionan en tiempo real para crear una interpretación coherente** de la realidad del usuario y la usa para interactuar con juegos de consola, esto es a lo que Manovich denominó **"transcodificación"**. 
-Asi pues tomando esta premisa, cogeremos a **Kinect como metamedio** (como el Dynabook de Alan Kay y su equipo). 
+así pues tomando esta premisa, cogeremos a **Kinect como metamedio** (como el Dynabook de Alan Kay y su equipo). 
 
 En el videojuego Kinect Adventures (2010) que consta de diversos mini juegos de varios minutos de duracion, el usuario controla su avatar (representación del jugador en el juego), a lo largo de varios escenarios y va compitiendo con otro jugador de forma local, o contra otros jugadores en remoto, el kinect captura la **imagen y movimientos del jugador y los inserta mediante software dentro del entorno 3D** del juego convirtiéndolos en acciones virtuales, de tal manera que se crea un **híbrido visual** donde la realidad del jugador en su salon coexiste con la accion dentro del escenario del Kinect Adventures (en una lancha bajando unos rápidos, en una plataforma suspendida entre árboles, etc.). También te saca fotos en momentos "divertidos" y te las muestra al final de cada partida.
 
