@@ -11,7 +11,7 @@ Hibridación en The Matrix y Kinect Adventures
 - [¿Qué es la hibridación de medios según Manovich?](#qué-es-la-hibridación-de-medios-según-manovich)
 - [Mis casos de hibridación](#mis-casos-de-hibridación)
 - [The Matrix (1999)](#the-matrix-la-película-1999)
-- [Kinect Adventures](#kinect-adventures)
+- [Kinect Adventures](#kinect-como-metamedio-y-kinect-adventures-como-caso-de-hibridación)
 - [Bibliografía](#bibliografía)
 
 
